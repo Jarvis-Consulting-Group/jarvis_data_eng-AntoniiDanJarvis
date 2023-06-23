@@ -17,6 +17,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/master/linux_sql)]: Developed a Linux monitoring agent to aggregate system specific data and store it in RDBMS. The work of this agent consists of running a few bash scripts triggered by CRON scheduled jobs to gather system data. This data is then used to generate SQL statements to push it into a PSQL database running in a Docker container. Analyzing aggregated data can help identify insufflate usage of VMs resources.
 
+**SQL** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/master/sql)]: This project is dedicated to practising SQL queries and contains 28 solved tasks. The difficulty range of tasks varies greatly, from simplest select all to triple joins.
+
 
 ## Highlighted Projects
 **Fair** [[GitHub](https://github.com/KaJLaZ/Fair-Server)]: Fair is a server-client model application composed of several mini-games united by one storyline. The server part was built as a Spring Boot application with additional WEB and DATA modules to provide infrastructure for building REST API applications with communication with a database. To persist data back-end, part uses PostgreSQL for kipping long-termed necessary configuration data and Couchbase as a NoSQL database for keeping small game state data. The client was implemented on top of the JavaFX framework.

@@ -42,6 +42,11 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed a Linux monitoring agent to aggregate system specific data and store it in RDBMS. The work of this agent consists of running a few bash scripts triggered by CRON scheduled jobs to gather system data. This data is then used to generate SQL statements to push it into a PSQL database running in a Docker container. Analyzing aggregated data can help identify insufflate usage of VMs resources.
+  - name: "SQL"
+    git_url: "/sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: This project is dedicated to practising SQL queries and contains 28 solved tasks. The difficulty range of tasks varies greatly, from simplest select all to triple joins.
 
 # List of personal or academic projects
 # Feel free to add more projects
