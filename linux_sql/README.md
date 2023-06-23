@@ -4,7 +4,8 @@
 
 ### Purpose
 
-The purpose of the monitoring agent is to collect hardware and OS specifications from Linux machines for future analysis.
+The purpose of the monitoring agent is to collect hardware and OS specifications from Linux machines for future analyse.
+You can find an example of potential data analysis queries in the sql/queries.sql file.
 
 ### Simplified workflow
 
