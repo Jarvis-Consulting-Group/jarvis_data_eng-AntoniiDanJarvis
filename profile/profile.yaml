@@ -1,0 +1,118 @@
+# Preferred name (Characters only)
+name: "Antonii Dan"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a qualified software engineer with 3 years of experience in microservices and infrastructure development, working in a cross functional agile team. Strong creative and analytical skills. Team player with an eye for detail
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Spring Boot(Web, Data, Security)
+    - AWS(CloudFormation, Step Functions, Lambdas, RDS, ECS)
+    - Kafka
+    - Junit 5,
+    - Spock,
+    - Spring Cloud Contract
+    - SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Java Script
+    - Type Script
+    - Angular
+    - Docker
+    - Linux/Bash
+  # At least 5 skills
+  familiar:
+    - C++
+    - PostgreSQL
+    - Aerospike(NoSQL)
+    - CircleCI
+    - NewRelic
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: In scope of this project was developed a Linux agent that can aggregate system specific date and store it in RDBMS. The work of this agent consists of running a few bash scripts triggered by CRON scheduled jobs to gather system data. This data is then used to generate SQL statements to push it into a relational database running in a Docker container.
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  #project name
+  - name: "Fair server"
+    #URL is optional
+    git_url: "https://github.com/KaJLaZ/Fair-Server"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Server part of tne game called Fair. Was built as a Spring Boot application with Core, Web and Data modules, PostgreSQL as SQL DB, Couchbase as NoSQL DB.
+  - name: "Fair client"
+    git_url:
+    description: Client part of the game called Fair built on top of JavaFX framework.
+  - name: "Doodle jump clone"
+    git_url:
+    description: C++ clone of Doodle Jump built on top of SFML framework.
+  - name: "Arcanoid clone"
+    git_url:
+    description: C++ clone of Arcanoid built on top of SFML framework.
+
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Engineer"
+    company: "Jarvis"
+    duration: "2023.06 - present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Participated in software engineering training.\n
+    Improved my Linux, Bash knowledge."
+  - title: "Software Engineer"
+    company: "EPAM Systems"
+    duration: "2021.10 - 2023.04"
+    description: "\n\n
+                  \t\t• Migrated Java applications from on-premise to AWS cloud;\n\n
+                  \t\t• Automated deployment workflows by adding CI/CD pipelines;\n\n
+                  \t\t• Increased observability by adding monitoring and dashboards;\n\n
+                  \t\t• Improved infrastructure flexibility by adding self-hosted runners;\n\n
+                  \t\t• Maintained and covered by tests code base adtech apps;"
+  - title: "Software Engineer"
+    company: "Playtika"
+    duration: "2020.02 - 2021.06"
+    description: "\n\n
+                  \t\t• Created several Java microservices responsible for game logic.\n\n
+                  \t\t• Set up data aggregation by business intelligence request.\n\n
+                  \t\t• Added, configured and modified many topics of message broker.\n\n
+                  \t\t• Configured gateway to support old versions of client applications.\n\n
+                  \t\t• Covered code base with unit, functional and contract tests."
+
+
+#List of edcuation
+education:
+  - school_name: "Vinnytsia Institute of Trade and Economics of Kyiv University"
+    duration: "2020-2022"
+    degree: "Bachelor of Computer Engineering"
+    department: "Computer Engineering"
+    awards_achievements:
+
+    # optional
+  - school_name: "Vinnytsia Technical College"
+    duration: "2016-2018"
+    degree: "Specialist of Computer Engineering"
+    department: "Computer Engineering"
+    awards_achievements:
+
+others:
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Swimming"
+      - "Computer Gaming"

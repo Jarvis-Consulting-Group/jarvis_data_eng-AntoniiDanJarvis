@@ -1,0 +1,107 @@
+{
+  "education": [
+    {
+      "awards_achievements": null,
+      "degree": "Bachelor of Computer Engineering",
+      "department": "Computer Engineering",
+      "duration": "2020-2022",
+      "school_name": "Vinnytsia Institute of Trade and Economics of Kyiv University"
+    },
+    {
+      "awards_achievements": null,
+      "degree": "Specialist of Computer Engineering",
+      "department": "Computer Engineering",
+      "duration": "2016-2018",
+      "school_name": "Vinnytsia Technical College"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis",
+  "highlighted_projects": [
+    {
+      "description": "Server part of tne game called Fair. Was built as a Spring Boot application with Core, Web and Data modules, PostgreSQL as SQL DB, Couchbase as NoSQL DB.",
+      "git_url": "https://github.com/KaJLaZ/Fair-Server",
+      "name": "Fair server"
+    },
+    {
+      "description": "Client part of the game called Fair built on top of JavaFX framework.",
+      "git_url": null,
+      "name": "Fair client"
+    },
+    {
+      "description": "C++ clone of Doodle Jump built on top of SFML framework.",
+      "git_url": null,
+      "name": "Doodle jump clone"
+    },
+    {
+      "description": "C++ clone of Arcanoid built on top of SFML framework.",
+      "git_url": null,
+      "name": "Arcanoid clone"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "In scope of this project was developed a Linux agent that can aggregate system specific date and store it in RDBMS. The work of this agent consists of running a few bash scripts triggered by CRON scheduled jobs to gather system data. This data is then used to generate SQL statements to push it into a relational database running in a Docker container.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Antonii Dan",
+  "others": [
+    {
+      "bullets": [
+        "Swimming",
+        "Computer Gaming"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Participated in software engineering training.\n Improved my Linux, Bash knowledge.",
+      "duration": "2023.06 - present",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "EPAM Systems",
+      "description": "\n\n \t\t• Migrated Java applications from on-premise to AWS cloud;\n\n \t\t• Automated deployment workflows by adding CI/CD pipelines;\n\n \t\t• Increased observability by adding monitoring and dashboards;\n\n \t\t• Improved infrastructure flexibility by adding self-hosted runners;\n\n \t\t• Maintained and covered by tests code base adtech apps;",
+      "duration": "2021.10 - 2023.04",
+      "title": "Software Engineer"
+    },
+    {
+      "company": "Playtika",
+      "description": "\n\n \t\t• Created several Java microservices responsible for game logic.\n\n \t\t• Set up data aggregation by business intelligence request.\n\n \t\t• Added, configured and modified many topics of message broker.\n\n \t\t• Configured gateway to support old versions of client applications.\n\n \t\t• Covered code base with unit, functional and contract tests.",
+      "duration": "2020.02 - 2021.06",
+      "title": "Software Engineer"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Java Script",
+      "Type Script",
+      "Angular",
+      "Docker",
+      "Linux/Bash"
+    ],
+    "familiar": [
+      "C++",
+      "PostgreSQL",
+      "Aerospike(NoSQL)",
+      "CircleCI",
+      "NewRelic"
+    ],
+    "proficient": [
+      "Java",
+      "Spring Boot(Web, Data, Security)",
+      "AWS(CloudFormation, Step Functions, Lambdas, RDS, ECS)",
+      "Kafka",
+      "Junit 5,",
+      "Spock,",
+      "Spring Cloud Contract",
+      "SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I am a qualified software engineer with 3 years of experience in microservices and infrastructure development, working in a cross functional agile team. Strong creative and analytical skills. Team player with an eye for detail"
+}
