@@ -1,0 +1,99 @@
+# Preferred name (Characters only)
+name: "Antonii Dan"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a qualified software engineer with three years of back-end development and infrastructure creation experience at two huge tech companies. Gained back-end developer expertise by developing Java Spring Boot microservices and covered them with the unit, integration and contract tests following the TDD approach. Acquired a vast range of infrastructure skills by participating in extensive infrastructure improvement projects like pipeline creation, monitoring integration, AWS migration etc. Has expertise in such complex domains as ad tech and game dev. Obtained computer engineer bachelor's degree.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Spring Boot(Web, Data, Security)
+    - AWS(CloudFormation, Step Functions, Lambdas, RDS, ECS)
+    - Kafka
+    - Junit 5
+    - Spock
+    - Spring Cloud Contract
+    - SQL
+  # At least 5 skills
+  competent:
+    - Java Script
+    - Type Script
+    - Angular
+    - Docker
+    - Linux/Bash
+  # At least 5 skills
+  familiar:
+    - C++
+    - PostgreSQL
+    - Aerospike(NoSQL)
+    - CircleCI
+    - NewRelic
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a Linux monitoring agent to aggregate system specific data and store it in RDBMS. The work of this agent consists of running a few bash scripts triggered by CRON scheduled jobs to gather system data. This data is then used to generate SQL statements to push it into a PSQL database running in a Docker container. Analyzing aggregated data can help identify insufflate usage of VMs resources.
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  #project name
+  - name: "Fair"
+    #URL is optional
+    git_url: "https://github.com/KaJLaZ/Fair-Server"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Fair is a server-client model application composed of several mini-games united by one storyline. The server part was built as a Spring Boot application with additional WEB and DATA modules to provide infrastructure for building REST API applications with communication with a database. To persist data back-end, part uses PostgreSQL for kipping long-termed necessary configuration data and Couchbase as a NoSQL database for keeping small game state data. The client was implemented on top of the JavaFX framework.
+  - name: "Doodle jump clone"
+    git_url: "https://github.com/KaJLaZ/DoodleJump"
+    description: C++ clone of Doodle Jump built on top of SFML framework.
+
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Engineer"
+    company: "Jarvis"
+    duration: "2023.06 - present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Worked as a software engineer within the Agile team on various projects like Linux monitoring agent."
+  - title: "Software Engineer"
+    company: "EPAM Systems"
+    duration: "2021.10 - 2023.04"
+    description: "Successfully migrated Java applications from on-premise to the AWS cloud and automatized workflow by adding CI/CD pipelines, which led to a more efficient operation overall. I also added sophisticated monitoring dashboards to increase observability. Furthermore, I covered the ad tech code base with unit, integration and contact tests."
+  - title: "Software Engineer"
+    company: "Playtika"
+    duration: "2020.02 - 2021.06"
+    description: "Developed and maintained various Java microservices. My responsibilities also included adding data gathering for the business intelligence team, configuring and modifying message broker topics, setting up a gateway to support older versions of client applications, and creating thorough unit, functional, and contract tests to ensure complete code coverage."
+
+
+#List of edcuation
+education:
+  - school_name: "Vinnytsia Institute of Trade and Economics of Kyiv University"
+    duration: "2020-2022"
+    degree: "Bachelor of Computer Engineering"
+    department: "Computer Engineering"
+    awards_achievements:
+
+    # optional
+  - school_name: "Vinnytsia Technical College"
+    duration: "2016-2018"
+    degree: "Specialist of Computer Engineering"
+    department: "Computer Engineering"
+    awards_achievements:
+
+others:
+  #category
+  - title: "Certificates"
+    bullets:
+      - "Unreal Engine 5 for Professionals 8-week power workshop (2022)"
