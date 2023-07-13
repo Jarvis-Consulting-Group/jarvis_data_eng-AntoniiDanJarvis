@@ -11,7 +11,7 @@
       "awards_achievements": null,
       "degree": "Specialist of Computer Engineering",
       "department": "Computer Engineering",
-      "duration": "2016-2018",
+      "duration": "2016-2020",
       "school_name": "Vinnytsia Technical College"
     }
   ],
@@ -38,6 +38,11 @@
       "description": "This project is dedicated to practising SQL queries and contains 28 solved tasks. The difficulty range of tasks varies greatly, from simplest select all to triple joins.",
       "git_url": "/sql",
       "name": "SQL"
+    },
+    {
+      "description": "This training project provides code samples for interacting with the PSQL database using JDBC PSQL driver external dependency managed by the Maven build automation tool.",
+      "git_url": "core_java/jdbc",
+      "name": "JDBC"
     }
   ],
   "name": "Antonii Dan",

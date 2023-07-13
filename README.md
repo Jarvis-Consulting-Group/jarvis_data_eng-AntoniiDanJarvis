@@ -19,6 +19,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **SQL** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/master/sql)]: This project is dedicated to practising SQL queries and contains 28 solved tasks. The difficulty range of tasks varies greatly, from simplest select all to triple joins.
 
+**JDBC** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/jdbc)]: This training project provides code samples for interacting with the PSQL database using JDBC PSQL driver external dependency managed by the Maven build automation tool.
+
 
 ## Highlighted Projects
 **Fair** [[GitHub](https://github.com/KaJLaZ/Fair-Server)]: Fair is a server-client model application composed of several mini-games united by one storyline. The server part was built as a Spring Boot application with additional WEB and DATA modules to provide infrastructure for building REST API applications with communication with a database. To persist data back-end, part uses PostgreSQL for kipping long-termed necessary configuration data and Couchbase as a NoSQL database for keeping small game state data. The client was implemented on top of the JavaFX framework.
@@ -38,7 +40,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 ## Education
 **Vinnytsia Institute of Trade and Economics of Kyiv University (2020-2022)**, Bachelor of Computer Engineering, Computer Engineering
 
-**Vinnytsia Technical College (2016-2018)**, Specialist of Computer Engineering, Computer Engineering
+**Vinnytsia Technical College (2016-2020)**, Specialist of Computer Engineering, Computer Engineering
 
 
 ## Miscellaneous
