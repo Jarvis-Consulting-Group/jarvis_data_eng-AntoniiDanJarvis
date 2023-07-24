@@ -21,6 +21,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **JDBC** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/jdbc)]: This training project provides code samples for interacting with the PSQL database using JDBC PSQL driver external dependency managed by the Maven build automation tool.
 
+**Grep** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/grep)]: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.
+
 
 ## Highlighted Projects
 **Fair** [[GitHub](https://github.com/KaJLaZ/Fair-Server)]: Fair is a server-client model application composed of several mini-games united by one storyline. The server part was built as a Spring Boot application with additional WEB and DATA modules to provide infrastructure for building REST API applications with communication with a database. To persist data back-end, part uses PostgreSQL for kipping long-termed necessary configuration data and Couchbase as a NoSQL database for keeping small game state data. The client was implemented on top of the JavaFX framework.
