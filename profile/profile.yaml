@@ -48,6 +48,9 @@ jarvis_projects:
   - name: "JDBC"
     git_url: "core_java/jdbc"
     description: This training project provides code samples for interacting with the PSQL database using JDBC PSQL driver external dependency managed by the Maven build automation tool.
+  - name: "Grep"
+    git_url: "core_java/grep"
+    description: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.
 
 # List of personal or academic projects
 # Feel free to add more projects
