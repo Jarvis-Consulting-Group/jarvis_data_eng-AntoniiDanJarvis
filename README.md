@@ -23,6 +23,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Grep** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/grep)]: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.
 
+**Trade App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastertrade_app)]: The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient.
+
 
 ## Highlighted Projects
 **Fair** [[GitHub](https://github.com/KaJLaZ/Fair-Server)]: Fair is a server-client model application composed of several mini-games united by one storyline. The server part was built as a Spring Boot application with additional WEB and DATA modules to provide infrastructure for building REST API applications with communication with a database. To persist data back-end, part uses PostgreSQL for kipping long-termed necessary configuration data and Couchbase as a NoSQL database for keeping small game state data. The client was implemented on top of the JavaFX framework.

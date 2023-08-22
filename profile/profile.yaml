@@ -51,6 +51,9 @@ jarvis_projects:
   - name: "Grep"
     git_url: "core_java/grep"
     description: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.
+  - name: "Trade App"
+    git_url: "trade_app"
+    description: The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient.
 
 # List of personal or academic projects
 # Feel free to add more projects
