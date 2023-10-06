@@ -1,12 +1,12 @@
 # Antonii Dan . Jarvis Consulting
 
-I am a qualified software engineer with three years of back-end development and infrastructure creation experience at two huge tech companies. Gained back-end developer expertise by developing Java Spring Boot microservices and covered them with the unit, integration and contract tests following the TDD approach. Acquired a vast range of infrastructure skills by participating in extensive infrastructure improvement projects like pipeline creation, monitoring integration, AWS migration etc. Has expertise in such complex domains as ad tech and game dev. Obtained computer engineer bachelor's degree.
+I am a qualified software engineer with three years of back-end development and infrastructure creation experience at two huge tech companies. Gained back-end developer expertise by developing Java Spring Boot microservices and covered them with the unit, integration and contract tests following the TDD approach. Acquired a vast range of infrastructure skills by participating in extensive infrastructure improvement projects like pipeline creation, monitoring integration, AWS migration etc. Additionally I have an an expertise in such complex domains as ad-tech and game-dev along with computer engineer bachelor's degree.
 
 ## Skills
 
 **Proficient:** Java, Spring Boot(Web, Data, Security), AWS(CloudFormation, Step Functions, Lambdas, RDS, ECS), Kafka, Junit 5, Spock, Spring Cloud Contract, SQL
 
-**Competent:** Java Script, Type Script, Angular, Docker, Linux/Bash
+**Competent:** JavaScript, TypeScript, Angular, Docker, Linux/Bash
 
 **Familiar:** C++, PostgreSQL, Aerospike(NoSQL), CircleCI, NewRelic
 
@@ -21,9 +21,9 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **JDBC** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/jdbc)]: This training project provides code samples for interacting with the PSQL database using JDBC PSQL driver external dependency managed by the Maven build automation tool.
 
-**Grep** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/grep)]: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.
+**Grep** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastercore_java/grep)]: Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O, Maven as a build automation tool and Docker as a container virtualization platform. TDD approach was incorporated as a pillar of development that led to better unit test coverage.
 
-**Trade App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastertrade_app)]: The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient.
+**Trade App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-AntoniiDanJarvis/tree/mastertrade_app)]: The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient. Application was covered with unit and integration tests using such tools asJunit5, WireMock, Mockito, AssertJ.
 
 
 ## Highlighted Projects
@@ -49,3 +49,5 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Miscellaneous
 - Unreal Engine 5 for Professionals 8-week power workshop (2022)
+- Computer Gaming
+- Swimming

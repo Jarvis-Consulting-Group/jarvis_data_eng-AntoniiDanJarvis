@@ -45,12 +45,12 @@
       "name": "JDBC"
     },
     {
-      "description": "Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O and Maven as a build automation tool.",
+      "description": "Grep is Java-based console application that replicates the functionality of the grep bash command using core Java features like StreamAPI, Regex and I/O, Maven as a build automation tool and Docker as a container virtualization platform. TDD approach was incorporated as a pillar of development that led to better unit test coverage.",
       "git_url": "core_java/grep",
       "name": "Grep"
     },
     {
-      "description": "The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient.",
+      "description": "The Trade project is a Java based Spring Boot application that allows users to interact with the trading market, specifically with shares through REST API. The app stores information on selected shares in the PSQL database, and Swagger was configured to make the interaction with API more convenient. Application was covered with unit and integration tests using such tools asJunit5, WireMock, Mockito, AssertJ.",
       "git_url": "trade_app",
       "name": "Trade App"
     }
@@ -62,6 +62,13 @@
         "Unreal Engine 5 for Professionals 8-week power workshop (2022)"
       ],
       "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Computer Gaming",
+        "Swimming"
+      ],
+      "title": "Hobbies"
     }
   ],
   "professional_experience": [
@@ -86,8 +93,8 @@
   ],
   "skills": {
     "competent": [
-      "Java Script",
-      "Type Script",
+      "JavaScript",
+      "TypeScript",
       "Angular",
       "Docker",
       "Linux/Bash"
@@ -110,5 +117,5 @@
       "SQL"
     ]
   },
-  "summary": "I am a qualified software engineer with three years of back-end development and infrastructure creation experience at two huge tech companies. Gained back-end developer expertise by developing Java Spring Boot microservices and covered them with the unit, integration and contract tests following the TDD approach. Acquired a vast range of infrastructure skills by participating in extensive infrastructure improvement projects like pipeline creation, monitoring integration, AWS migration etc. Has expertise in such complex domains as ad tech and game dev. Obtained computer engineer bachelor's degree."
+  "summary": "I am a qualified software engineer with three years of back-end development and infrastructure creation experience at two huge tech companies. Gained back-end developer expertise by developing Java Spring Boot microservices and covered them with the unit, integration and contract tests following the TDD approach. Acquired a vast range of infrastructure skills by participating in extensive infrastructure improvement projects like pipeline creation, monitoring integration, AWS migration etc. Additionally I have an an expertise in such complex domains as ad-tech and game-dev along with computer engineer bachelor's degree."
 }
